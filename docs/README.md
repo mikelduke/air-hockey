@@ -6,6 +6,8 @@ Simple love2d physics based air hockey game for touchscreen
 
 ![Air Hockey](air-hockey.gif?raw=true "Air Hockey")
 
+Two player vs game using one screen. Works better on bigger devices.
+
 Links:
 * [Github Repo](https://github.com/mikelduke/air-hockey)
 * [Github Pages](https://mikelduke.github.io/air-hockey/)
